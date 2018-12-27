@@ -1,7 +1,8 @@
 1) What are three interesting facts about you?
-
+I like ice cream, corgis, and napping.
 
 2) What's your favorite song and movie?
-
+Ocean Eyes by Billie Eilish and Zootopia.
 
 3) Why do you want to learn how to program?
+I want to be prepared for CS 61A and I think it is a good skill to have.
