@@ -1,1 +1,3 @@
 https://raw.githubusercontent.com/Intro-to-CS-Bootcamp/labs/master/lab0/lab0.json
+yes!
+yes!
