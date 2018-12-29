@@ -4,3 +4,6 @@
 
 
 ### Your Code Here ###
+puts 'WHY IN THE WORLD DID YOU INTERUPT ME?! WHAT DO YOU WANT?'
+answer=gets.chomp
+puts 'EXCUSE ME? "'+answer.upcase+'?!?" YOU\'RE FIRED!'
